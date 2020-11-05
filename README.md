@@ -1,4 +1,8 @@
-# CloudFlare Prometheus exporter Helm Chart
+# DEPRECATED -  CloudFlare Prometheus exporter Helm Chart
+
+This chart is deprecated as we have moved to the upstream repo [cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter)
+The chart source can be found here: https://github.com/lablabs/cloudflare-exporter/tree/master/charts/cloudflare-exporter
+
 
 [<img src="ll-logo.png">](https://lablabs.io/)
 
